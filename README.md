@@ -1,0 +1,1 @@
+The Mouse Maze exercise is fascinating because it combines interactive learning with immediate visual feedback, making JavaScript concepts
